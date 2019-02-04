@@ -10,7 +10,7 @@ namespace GitHubTestWebApp.Controllers
 	{
 		public ActionResult Index()
 		{
-			///
+			//
 			return View();
 		}
 
